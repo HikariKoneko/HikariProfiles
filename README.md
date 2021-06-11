@@ -4,6 +4,10 @@ Various dungeon/raid/trial profiles for use with Kitanoi's Dungeon Framework.
 
 # Current profiles
 
+Raids:
+
+- Lv60 Alexander - The Fist of the Father (Savage) (unsynced)
+
 Dungeons:
 
 - Lv70 The Drowned City of Skalla (unsynced)

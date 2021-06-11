@@ -7,6 +7,7 @@ Various dungeon/raid/trial profiles for use with Kitanoi's Dungeon Framework.
 Raids:
 
 - Lv60 Alexander - The Fist of the Father (Savage) (unsynced)
+- Lv60 Alexander - The Cuff of the Father (Savage) (unsynced)
 
 Dungeons:
 

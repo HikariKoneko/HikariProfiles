@@ -6,7 +6,7 @@ Various dungeon/raid/trial profiles for use with Kitanoi's Dungeon Framework.
 
 Dungeons:
 
-- The Drowned City of Skalla
+- Lv70 The Drowned City of Skalla (unsynced)
 
 # Planned
 

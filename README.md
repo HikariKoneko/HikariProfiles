@@ -8,6 +8,7 @@ Raids:
 
 - Lv60 Alexander - The Fist of the Father (Savage) (unsynced)
 - Lv60 Alexander - The Cuff of the Father (Savage) (unsynced)
+- Lv60 Alexander - The Arm of the Father (Savage) (unsynced)
 
 Dungeons:
 
